@@ -8,11 +8,12 @@ I’m a passionate developer who loves building modern web applications, clean U
 
 ## 🧑‍💻 About Me
 
-  🌱 Currently exploring MERN Stack + AI Tools
-- 💡 I build responsive and user-friendly websites  
-- ⚛️ Frontend: React, Tailwind CSS, HTML, CSS, JavaScript  
-- 🛠 Backend: Node.js, Express, MongoDB    
-- 🔥 Love working on real-world projects  
+- 🌱 Currently exploring MERN Stack + AI Tools
+- 💡 I build responsive and user-friendly websites
+- ⚛️ Frontend: React, Tailwind CSS, HTML, CSS, JavaScript
+- 🛠 Backend: Node.js, Express, MongoDB
+- 🔥 Love working on real-world projects
+
 
 ---
 
