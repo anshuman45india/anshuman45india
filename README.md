@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anshuman Tiwari  
+# 👋 Hi, I'm Anshuman  
 
 🚀 Full Stack Developer | React | Backend | Problem Solver  
 
