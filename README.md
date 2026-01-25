@@ -8,10 +8,10 @@ I’m a passionate developer who loves building modern web applications, clean U
 
 ## 🧑‍💻 About Me
 
+  🌱 Currently exploring MERN Stack + AI Tools
 - 💡 I build responsive and user-friendly websites  
 - ⚛️ Frontend: React, Tailwind CSS, HTML, CSS, JavaScript  
-- 🛠 Backend: Node.js, Express, MongoDB  
-- 📚 Currently improving DSA & system design  
+- 🛠 Backend: Node.js, Express, MongoDB    
 - 🔥 Love working on real-world projects  
 
 ---
@@ -36,28 +36,12 @@ I’m a passionate developer who loves building modern web applications, clean U
 
 ---
 
-## 📈 GitHub Stats
-
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-- 🌐 Portfolio Website – React + Tailwind  
-- 🍔 Food Delivery App – Full Stack Project  
-- 📊 Traffic Flow Mathematical Model Project  
-- 📚 Educational Management System  
-
----
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Portfolio: https://yourwebsite.com  
+- 📧 Email: anshuman45india@gmail.com  
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshuman-developer-b669802a4/)  
+- 🌍 Portfolio:  
 
 ---
 
