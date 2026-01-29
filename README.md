@@ -1,60 +1,70 @@
-                                                                # 👋 Hi, I'm Anshuman  
+<h1 align="center">👋 Hi, I'm Anshuman </h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Clean UI Lover</h3>
 
-                                                    🚀 Full Stack Developer | React | Backend | Problem Solver  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-I’m a passionate developer who loves building modern web applications, clean UI systems, and scalable backend solutions.
+<hr>
 
----
+<h2>🧠 About Me</h2>
+<ul>
+  <li>🌱 Learning MERN Stack + AI Tools</li>
+  <li>💻 Building modern web applications</li>
+  <li>⚡ Love clean UI & scalable backend</li>
+  <li>🎯 Aspiring high-impact full stack developer</li>
+</ul>
 
-## 🧑‍💻 About Me
+<hr>
 
-- 🌱 Currently exploring MERN Stack + AI Tools
-- 💡 I build responsive and user-friendly websites
-- ⚛️ Frontend: React, Tailwind CSS, HTML, CSS, JavaScript
-- 🛠 Backend: Node.js, Express, MongoDB
-- 🔥 Love working on real-world projects
+<h2>🛠 Tech Stack</h2>
 
+<h3>🎨 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
+</p>
 
----
+<h3>⚙ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 🛠 Tech Stack
+<h3>🧰 Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-### Frontend
-- React  
-- Tailwind CSS  
-- JavaScript  
-- HTML5 & CSS3  
+<hr>
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
+<h2>📈 GitHub Stats</h2>
 
-### Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
----
+<hr>
 
+<h2>🌐 Connect With Me</h2>
 
-## 📫 Connect With Me
+<p>
+  📧 anshuman45india@gmail.com <br>
+  💼 <a href="https://www.linkedin.com/in/anshuman-developer-b669802a4/">LinkedIn Profile</a> <br>
+  🌍 Portfolio coming soon 🚧
+</p>
 
-- 📧 Email: anshuman45india@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshuman-developer-b669802a4/)  
-- 🌍 Portfolio:  
+<hr>
 
+<h2>🚀 Currently</h2>
 
-⭐️ From Anshuman
+<ul>
+  <li>🔭 Working on MERN projects</li>
+  <li>🌱 Improving React & backend architecture</li>
+  <li>👯 Open for collaboration</li>
+  <li>💬 Ask me about Web Dev</li>
+  <li>⚡ Fun fact: I love UI animations</li>
+</ul>
 
-    🔭 I’m currently not working ...
-    🌱 I’m currently learning ...
-    👯 I’m looking to collaborate on ...
-    🤔 I’m looking for help with ...
-    💬 Ask me about ...
-    📫 How to reach me: ...
-    😄 Pronouns: ...
-    ⚡ Fun fact: ... -->
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+<p align="center">
+  ⭐ If you like my work, star my repositories!
+</p>
