@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Anshuman  
+                                                                # 👋 Hi, I'm Anshuman  
 
-🚀 Full Stack Developer | React | Backend | Problem Solver  
+                                                    🚀 Full Stack Developer | React | Backend | Problem Solver  
 
 I’m a passionate developer who loves building modern web applications, clean UI systems, and scalable backend solutions.
 
