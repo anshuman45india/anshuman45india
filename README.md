@@ -50,7 +50,7 @@
 <p>
   📧 anshuman45india@gmail.com <br>
   💼 <a href="https://www.linkedin.com/in/anshuman-developer-b669802a4/">LinkedIn Profile</a> <br>
-  🌍 Portfolio coming soon 🚧
+  🌍 <a href="https://www.golutiwari.in/">Portfolio</a>
 </p>
 
 <hr>
